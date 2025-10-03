@@ -2,7 +2,7 @@ package com.pluralsight;
 
 public class TestStatisticsApp {
     public static void main(String[] args) {
-        int[] testScores = {67,94,85,71,25,86,53,48,56,87};
+        int[] testScores = {87,94,85,71,25,86,53,48,56,87};
 
         int sum = 0;
         for (int i=0; i<10; i++){
